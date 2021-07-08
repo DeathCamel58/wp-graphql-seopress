@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Plugin Name:     WPGraphQL for SEOPress
  * Plugin URI:      https://github.com/moonmeister/wp-graphql-seopress

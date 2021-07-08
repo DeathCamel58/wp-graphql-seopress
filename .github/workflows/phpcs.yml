@@ -14,6 +14,7 @@ jobs:
         env:
           GH_BOT_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
           SKIP_FOLDERS: "tests,vendor,.github,.vscode"
+          PHPCS_STANDARD_FILE_NAME: "phpcs.xml.dist"
           PHPCS_SNIFFS_EXCLUDE: "WordPress.Files.FileName"
         with:
           args: "WordPress,WordPress-Core,WordPress-Docs"
