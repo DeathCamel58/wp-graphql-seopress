@@ -12,7 +12,7 @@
  * Requires PHP:    7.0
  * License:         GPL-3
  * License URI:     https://www.gnu.org/licenses/gpl-3.0.html
- *
+ * 
  * @package wp-graphql-seopress
  */
 
