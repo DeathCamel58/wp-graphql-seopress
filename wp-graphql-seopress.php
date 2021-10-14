@@ -8,7 +8,7 @@
  * Author URI:      https://moonmeister.net
  * Text Domain:     wp-graphql-seopress
  * Domain Path:     /languages
- * Version:         2.0
+ * Version:         2.1
  * Requires PHP:    7.0
  * License:         GPL-3
  * License URI:     https://www.gnu.org/licenses/gpl-3.0.html
